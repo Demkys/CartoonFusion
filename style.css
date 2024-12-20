@@ -1,0 +1,51 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #1f1f1f;
+    padding: 1rem;
+    box-shadow: 0 0 10px #0ff;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #0ff;
+}
+
+.showcase {
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 800px;
+    background: #1f1f1f;
+    border-radius: 10px;
+    box-shadow: 0 0 15px #0ff;
+}
+
+video {
+    width: 100%;
+    border: 2px solid #0ff;
+    border-radius: 10px;
+}
+
+.age-restriction {
+    font-size: 1.5rem;
+    color: #f00;
+    margin: 0.5rem 0;
+}
+
+.season-selector {
+    margin: 1rem 0;
+}
+
+footer {
+    margin-top: 3rem;
+    background-color: #1f1f1f;
+    padding: 1rem;
+    box-shadow: 0 0 10px #0ff;
+}
